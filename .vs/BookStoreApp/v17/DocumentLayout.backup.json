@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manju\\source\\repos\\BookStoreApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{536F7EBE-C4F2-4A50-8318-806BC057A9FE}|BookStoreApp\\BookStoreApp.csproj|c:\\users\\manju\\source\\repos\\bookstoreapp\\bookstoreapp\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{536F7EBE-C4F2-4A50-8318-806BC057A9FE}|BookStoreApp\\BookStoreApp.csproj|solutionrelative:bookstoreapp\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{536F7EBE-C4F2-4A50-8318-806BC057A9FE}|BookStoreApp\\BookStoreApp.csproj|c:\\users\\manju\\source\\repos\\bookstoreapp\\bookstoreapp\\helper\\applicationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{536F7EBE-C4F2-4A50-8318-806BC057A9FE}|BookStoreApp\\BookStoreApp.csproj|solutionrelative:bookstoreapp\\helper\\applicationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{536F7EBE-C4F2-4A50-8318-806BC057A9FE}|BookStoreApp\\BookStoreApp.csproj|c:\\users\\manju\\source\\repos\\bookstoreapp\\bookstoreapp\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{536F7EBE-C4F2-4A50-8318-806BC057A9FE}|BookStoreApp\\BookStoreApp.csproj|solutionrelative:bookstoreapp\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{536F7EBE-C4F2-4A50-8318-806BC057A9FE}|BookStoreApp\\BookStoreApp.csproj|c:\\users\\manju\\source\\repos\\bookstoreapp\\bookstoreapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{536F7EBE-C4F2-4A50-8318-806BC057A9FE}|BookStoreApp\\BookStoreApp.csproj|solutionrelative:bookstoreapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{536F7EBE-C4F2-4A50-8318-806BC057A9FE}|BookStoreApp\\BookStoreApp.csproj|c:\\users\\manju\\source\\repos\\bookstoreapp\\bookstoreapp\\data\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{536F7EBE-C4F2-4A50-8318-806BC057A9FE}|BookStoreApp\\BookStoreApp.csproj|solutionrelative:bookstoreapp\\data\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\manju\\source\\repos\\BookStoreApp\\BookStoreApp\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "BookStoreApp\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\manju\\source\\repos\\BookStoreApp\\BookStoreApp\\Controllers\\BooksController.cs*",
+              "RelativeToolTip": "BookStoreApp\\Controllers\\BooksController.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T15:17:18.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manju\\source\\repos\\BookStoreApp\\BookStoreApp\\Program.cs",
+              "RelativeDocumentMoniker": "BookStoreApp\\Program.cs",
+              "ToolTip": "C:\\Users\\manju\\source\\repos\\BookStoreApp\\BookStoreApp\\Program.cs",
+              "RelativeToolTip": "BookStoreApp\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T15:13:15.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\manju\\source\\repos\\BookStoreApp\\BookStoreApp\\Startup.cs",
+              "RelativeDocumentMoniker": "BookStoreApp\\Startup.cs",
+              "ToolTip": "C:\\Users\\manju\\source\\repos\\BookStoreApp\\BookStoreApp\\Startup.cs",
+              "RelativeToolTip": "BookStoreApp\\Startup.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T15:12:15.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationMapper.cs",
+              "DocumentMoniker": "C:\\Users\\manju\\source\\repos\\BookStoreApp\\BookStoreApp\\Helper\\ApplicationMapper.cs",
+              "RelativeDocumentMoniker": "BookStoreApp\\Helper\\ApplicationMapper.cs",
+              "ToolTip": "C:\\Users\\manju\\source\\repos\\BookStoreApp\\BookStoreApp\\Helper\\ApplicationMapper.cs",
+              "RelativeToolTip": "BookStoreApp\\Helper\\ApplicationMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T15:11:16.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Books.cs",
+              "DocumentMoniker": "C:\\Users\\manju\\source\\repos\\BookStoreApp\\BookStoreApp\\Data\\Books.cs",
+              "RelativeDocumentMoniker": "BookStoreApp\\Data\\Books.cs",
+              "ToolTip": "C:\\Users\\manju\\source\\repos\\BookStoreApp\\BookStoreApp\\Data\\Books.cs",
+              "RelativeToolTip": "BookStoreApp\\Data\\Books.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T15:11:04.306Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
