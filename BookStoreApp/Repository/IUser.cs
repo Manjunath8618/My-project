@@ -9,9 +9,10 @@ namespace BookStoreApp.Repository
     public interface IUser
     {
         Task<List<UserModel>> GetAllUsers();
-        Task<UserModel> Createuser();
-        Task<UserModel> UpdateModel();
-        Task<UserModel> DeleteUser();
+        Task<UserModel> GetUserById(int userid);
+        Task<UserModel> Createuser(UserModel userModel);
+        Task<UserModel> UpdateUser(int id,UserModel userModel);
+        Task<UserModel> DeleteUser(int id);
 
     }
 }
