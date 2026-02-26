@@ -58,7 +58,6 @@ namespace BookStoreApp
 
             services.AddTransient<IBookRepository, BookRepository>();
             services.AddTransient<IAccountRepository,AccountRepository>();
-            services.AddTransient<IUser,User>();
             services.AddAutoMapper(typeof(Startup));
 
             //services.AddSwaggerGen(c =>
