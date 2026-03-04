@@ -57,6 +57,7 @@ namespace BookStoreApp
             
 
             services.AddTransient<IBookRepository, BookRepository>();
+            services.AddTransient<IUser, UserRepository>();
             services.AddTransient<IAccountRepository,AccountRepository>();
             services.AddAutoMapper(typeof(Startup));
 
